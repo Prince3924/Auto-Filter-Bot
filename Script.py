@@ -25,7 +25,7 @@ class script(object):
 📢 Bᴏᴛ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ.</b>"""
 
     MY_OWNER_TXT = """<b>★ Name: P⃠r⃠i⃠n⃠c⃠e⃠
-★ User: @,Help_Chat_u_bot
+★ User: @Help_Chat_u_bot
 ★ ID: <code>LoL🤣</code>
 ★ Country: Bharat 🇮🇳</b>"""
 
@@ -158,10 +158,10 @@ I can't find the <b>{}</b> in my database! 🥲
 
 - ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀ ᴘʀɪᴠᴀᴛᴇ ᴘʀᴏᴊᴇᴄᴛ.
 
-- ꜱᴏᴜʀᴄᴇ - <a href=https://t.me/IllegalDeveloperBot>☏ ᴄᴏɴᴛᴀᴄᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ</a>
+- ꜱᴏᴜʀᴄᴇ - <a href=https://t.me/Help_Chat_u_bot>☏ ᴄᴏɴᴛᴀᴄᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ</a>
 
 🧑‍💻 ᴅᴇᴠʟᴏᴘᴇʀ -
-<a href=https://t.me/IllegalDeveloperBot>ɪʟʟᴇɢᴀʟ ᴅᴇᴠᴇʟᴏᴘᴇʀ</a></b>🕷"""
+<a href=https://t.me/Help_Chat_u_bot>ɪʟʟᴇɢᴀʟ ᴅᴇᴠᴇʟᴏᴘᴇʀ</a></b>🕷"""
 
 BUY_PREMIUM = """
 <b>Pʀᴇᴍɪᴜᴍ Fᴇᴀᴛᴜʀᴇs 🎁                      
