@@ -89,7 +89,7 @@ LANGUAGES = ["hindi", "english", "telugu", "tamil", "kannada", "malayalam"]
 # Other
 IMDB_TEMPLATE = environ.get("IMDB_TEMPLATE", script.IMDB_TEMPLATE)
 FILE_CAPTION = environ.get("FILE_CAPTION", script.FILE_CAPTION)
-SHORTLINK_URL = environ.get("SHORTLINK_URL", "gplinks.com)
+SHORTLINK_URL = environ.get("SHORTLINK_URL", "gplinks.com")
 SHORTLINK_API = environ.get("SHORTLINK_API", "1bdd8968fc7022939d184b75aed4055fc166d2d3")
 VERIFY_EXPIRE = int(environ.get('VERIFY_EXPIRE', 86400)) # Add time in seconds
 IS_VERIFY = is_enabled(environ.get("IS_VERIFY", "True"), True)
