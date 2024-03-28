@@ -150,7 +150,7 @@ async def pm_search(client, message):
     files, n_offset, total = await get_search_results(message.text, filter=True)
     if int(total) != 0:
         btn = [[
-            InlineKeyboardButton("Here", url='https://t.me/Illegal_Developer')
+            InlineKeyboardButton("Here", url='https://t.me/+ssRL5na7tRU2OGY1')
         ]]
         await message.reply_text(f'Total {total} results found in this group', reply_markup=InlineKeyboardMarkup(btn))
 
@@ -483,11 +483,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('ɪʟʟᴇɢᴀʟ ʀᴇQᴜᴇꜱᴛ ʟᴏɢꜱ', url=f'https://t.me/Illegal_Request')
         ],[
-            InlineKeyboardButton('ɢʀᴏᴜᴘ', url=f'https://t.me/+4RB2-U2o9yE4ZmQ9'),
-            InlineKeyboardButton('Channel', url=f'https://t.me/KSeriesFilm')
+            InlineKeyboardButton('ɢʀᴏᴜᴘ', url=f'https://t.me/+ssRL5na7tRU2OGY1'),
+            InlineKeyboardButton('Channel', url=f'https://t.me/+wwPpm865ER5hNWZl')
         ],[
-            InlineKeyboardButton('ꜱᴜᴘᴘᴏʀᴛ', url=f'https://t.me/Illegal_Supports'),
-            InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇ', url=f'https://t.me/Illegal_Developer')
+            InlineKeyboardButton('ꜱᴜᴘᴘᴏʀᴛ', url=f'https://t.me/+ssRL5na7tRU2OGY1'),
+            InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇ', url=f'https://t.me/+j2jWpVLFtFFlMzI1')
         ],[
             InlineKeyboardButton('« ʙᴀᴄᴋ', callback_data='start')
         ]]
