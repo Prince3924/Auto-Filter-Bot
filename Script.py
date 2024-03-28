@@ -24,10 +24,10 @@ class script(object):
 🗣️ Bᴏᴛ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ.
 📢 Bᴏᴛ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ.</b>"""
 
-    MY_OWNER_TXT = """<b>★ Name: Illegal Developer
-★ Username: @IllegalDeveloperBot
-★ ID: <code>5493832202</code>
-★ Country: Bharat 🇨🇮</b>"""
+    MY_OWNER_TXT = """<b>★ Name: P⃠r⃠i⃠n⃠c⃠e⃠
+★ User: @,Help_Chat_u_bot
+★ ID: <code>LoL🤣</code>
+★ Country: Bharat 🇮🇳</b>"""
 
     STATUS_TXT = """🗂 Total Files: <code>{}</code>
 👤 Total Users: <code>{}</code>
@@ -71,7 +71,7 @@ I can't find the <b>{}</b> in my database! 🥲
 
 » sᴛᴇᴘ 1:- ғɪʀsᴛ ʏᴏᴜ ʜᴀᴠᴇ ᴛᴏ ᴀᴅᴅ ᴛʜɪs ʙᴏᴛ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴀᴅᴍɪɴ ᴘᴇʀᴍɪssɪᴏɴ.
 
-» sᴛᴇᴘ 2:- ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ <a href=https://t.me/Illegal_Developer/10>mdisklink.link</a> [ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴜsᴇ ᴏᴛʜᴇʀ sʜᴏʀᴛɴᴇʀ ᴡᴇʙsɪᴛᴇ ]
+» sᴛᴇᴘ 2:- ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ <a href=https://t.me/backup_movies_hub1/30>you</a> [ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴜsᴇ ᴏᴛʜᴇʀ sʜᴏʀᴛɴᴇʀ ᴡᴇʙsɪᴛᴇ ]
 
 » sᴛᴇᴘ 3:- ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴇʟᴏᴡ ɢɪᴠᴇɴ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴋɴᴏᴡ ʜᴏᴡ ᴛᴏ ᴄᴏɴɴᴇᴄᴛ ʏᴏᴜʀ sʜᴏʀᴛɴᴇʀ ᴡɪᴛʜ ᴛʜɪs ʙᴏᴛ.
 
@@ -87,7 +87,7 @@ I can't find the <b>{}</b> in my database! 🥲
 
 ➥ ᴇxᴀᴍᴘʟᴇ ↓↓↓
 
-<code>/set_shortlink mdisklink.link 5843c3cc645f5077b2200a2c77e0344879880b3e</code>
+<code>/set_shortlink gplinks.com 1bdd8968fc7022939d184b75aed4055fc166d2d3</code>
 
 ➥ ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴄʜᴇᴄᴋ ᴡʜɪᴄʜ sʜᴏʀᴛᴇɴᴇʀ ʏᴏᴜ ʜᴀᴠᴇ ᴄᴏɴɴᴇᴄᴛᴇᴅ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛʜᴇɴ sᴇɴᴅ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ᴛʜᴇ ɢʀᴏᴜᴘ /get_shortlink
 
@@ -105,7 +105,12 @@ I can't find the <b>{}</b> in my database! 🥲
 🗣 Requested by: {message.from_user.mention}
 ©️ Powered by: <b>{message.chat.title}</b>"""
 
-    FILE_CAPTION = """<b><a href='https://t.me/Bollywood_New_Hindi_Movies_Files'>{file_name}</a>
+    FILE_CAPTION = """<b><a href='📂 Fɪʟᴇ ɴᴀᴍᴇ : @backup_movies_hub1 {file_name} 
+🔘{file_size}
+════════※ ·❆· ※════════
+▫️ Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ : <a href=https://t.me/+j2jWpVLFtFFlMzI1>𝗠𝗼𝘃𝗶𝗲𝗦 & 𝗦𝗲𝗿𝗶𝗲𝗦 𝗛𝘂𝗕</a>
+▫️ Dᴇᴠᴇʟᴏᴘᴇʀ Zᴏɴᴇ : <a href=https://t.me/+ssRL5na7tRU2OGY1>Cʟɪᴄᴋ Hᴇʀᴇ</a>
+════════※ ·❆· ※════════</a>
 
 🔰 Join For Back-up
 @Bollywood_New_Hindi_Movies_Files
