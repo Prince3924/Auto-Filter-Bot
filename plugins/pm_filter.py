@@ -484,9 +484,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('ɪʟʟᴇɢᴀʟ ʀᴇQᴜᴇꜱᴛ ʟᴏɢꜱ', url=f'https://t.me/Illegal_Request')
         ],[
             InlineKeyboardButton('ɢʀᴏᴜᴘ', url=f'https://t.me/+ssRL5na7tRU2OGY1'),
-            InlineKeyboardButton('Channel', url=f'https://t.me/+wwPpm865ER5hNWZl')
+            InlineKeyboardButton('Channel', url=f'https://t.me/+0dEbDXEbhHg3YjE1')
         ],[
-            InlineKeyboardButton('ꜱᴜᴘᴘᴏʀᴛ', url=f'https://t.me/+ssRL5na7tRU2OGY1'),
+            InlineKeyboardButton('ꜱᴜᴘᴘᴏʀᴛ', url=f'https://t.me/+wwPpm865ER5hNWZl'),
             InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇ', url=f'https://t.me/+j2jWpVLFtFFlMzI1')
         ],[
             InlineKeyboardButton('« ʙᴀᴄᴋ', callback_data='start')
